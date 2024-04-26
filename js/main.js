@@ -257,7 +257,7 @@ async function showDetails(idMeal){
          <p class="h3 ">${ingredients} </p>
          <h2>Tags :</h2>
          <div class="btns pt-4">
-         <a href="${mealDetails.strSource}" target="_blank" class="btn btn-success">Success</a>
+         <a href="${mealDetails.strSource}" target="_blank" class="btn btn-success">Source</a>
          <a href="${mealDetails.strYoutube}" target="_blank" class="btn btn-danger mx-2">Youtube</a>
          </div>
          

@@ -140,6 +140,15 @@
     width: 80%;
     margin-left: auto;
   }
+  .searchInputs{
+    flex-wrap: wrap;
+  }
+  input{
+    margin-bottom: 1rem;
+  }
+  input::placeholder{
+    font-size: small;
+  }
 }
 
 @media (min-width: 992px) { 
