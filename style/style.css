@@ -142,6 +142,8 @@
   }
   .searchInputs{
     flex-wrap: wrap;
+    position: relative;
+    left: 10%;
   }
   input{
     margin-bottom: 1rem;
